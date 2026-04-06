@@ -1,0 +1,8 @@
+name: hw7-env
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - torch==2.5.1
+    - transformers==4.44.0
+    - numpy==2.2.4
